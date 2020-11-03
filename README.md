@@ -9,7 +9,7 @@
 
 I am a 2nd-year student at Duke University double-majoring in Computer Science and Statistics. I've been programming since the 7th grade and am incredibly impassioned with topics relating to machine learning, computer network architectures, and quantum computing. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
 
-## Ongoing Projects 🧿
+## Ongoing Projects 🗺
 
 Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>. I expect the highest volume of updates to come during December 2020-January 2021. 
 
