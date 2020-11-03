@@ -1,5 +1,5 @@
 <a href="https://github.com/kcelebi">
-<img align="center" alt="kcelebi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kcelebi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" /></a>
+<img align="center" alt="kcelebi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kcelebi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" /></a>
 
 <a href="https://github.com/kcelebi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kcelebi&layout=compact&theme=dark" />
