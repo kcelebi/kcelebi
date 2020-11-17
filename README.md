@@ -7,7 +7,7 @@
 
 ## Hi, I'm Kaya! 👋
 
-I am a 2nd-year student at Duke University double-majoring in Computer Science and Statistics. I've been programming since the 7th grade and am incredibly impassioned with topics relating to machine learning, computer network architectures, and quantum computing. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
+I am a 2nd-year student at Duke University double-majoring in Computer Science and Statistics. I've been programming since the 7th grade and am incredibly impassioned with topics relating to machine learning, computer network architectures, finance, quantum computing, and mathematics. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
 
 ## Ongoing Projects 🗺
 
