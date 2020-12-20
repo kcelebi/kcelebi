@@ -13,6 +13,10 @@ I am a 2nd-year student at Duke University double-majoring in Computer Science a
 
 Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>. I expect the highest volume of updates to come during December 2020-January 2021. 
 
+### Assembly to Machine Code (Translator) ⚙️
+
+This project involves a program that converts Assembly written in RISC-V to machine code. This aspect is more or less finished, the more ambitious task that I've been working is making a data collision detector given the n-stage pipelined CPU. The basic function implementations are complete and I am planning on making a Python package to make this code accessible.  
+
 ### Car V2 🚗
 
 Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves translating traffic into a max-flow networking problem, and trying to create an optimal solution by adding a new road. Currently, I am using linear programming combined with machine learning to solve this problem. 
