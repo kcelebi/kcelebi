@@ -13,9 +13,9 @@ I am a 2nd-year student at Duke University double-majoring in Computer Science a
 
 Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>. I expect the highest volume of updates to come during December 2020-January 2021. 
 
-### Assembly to Machine Code (Interpreter) ⚙️
+### Assembly to Machine Code (Assembler) ⚙️
 
-This project involves a program that converts Assembly written in RISC-V to machine code. This aspect is more or less finished, the more ambitious task that I've been working is making a data collision detector given the n-stage pipelined CPU. The basic function implementations are complete and I am currently in the process of making this an available Python package! This package's tools would be most useful for people who are testing CPU architectures and need a more efficeint workflow for interpreting assembly.
+This is a Python package that is currently [available to use](https://github.com/kcelebi/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
 
 ### Car V2 🚗
 
