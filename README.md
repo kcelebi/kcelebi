@@ -17,7 +17,7 @@ Here are a list of ongoing projects that will be updated frequently both on GitH
 
 This is a Python package that is currently [available to use](https://github.com/kcelebi/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
 
-### Car V2 🚗
+### Traffic-V2 🚗
 
 Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves translating traffic into a max-flow networking problem, and trying to create an optimal solution by adding a new road. Currently, I am using linear programming combined with machine learning to solve this problem. 
 
