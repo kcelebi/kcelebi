@@ -7,11 +7,11 @@
 
 ## Hi, I'm Kaya! 👋
 
-I am a 2nd-year student at Duke University double-majoring in Computer Science and Statistics. I've been programming since the 7th grade and am incredibly impassioned with topics relating to machine learning, computer network architectures, finance, quantum computing, and mathematics. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
+CS and Stats at Duke University. Favorite topics are machine learning, computer network architectures, x86 and ARM ISA's, quantitative finance, quantum computing, and mathematics. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
 
 ## Ongoing Projects 🗺
 
-Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>. I expect the highest volume of updates to come during December 2020-January 2021. 
+Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>.
 
 ### riscv-assembler Python Package ⚙️
 
@@ -32,5 +32,7 @@ Overall the ``Cellular-Automata`` repo has no direct goal. My plans for the next
 ### DJI-VXX 📈
 
 The current version of this project is a model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines. My plan for the next edition of this project is to make an auto-trader that operates solely on a more refined version of this model. 
+
+[Check out the updates here](https://github.com/kcelebi/DJI-VXX)
 
 
