@@ -22,6 +22,7 @@ This is a Python package that is currently [available to use](https://github.com
 Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves translating traffic into a max-flow networking problem, and trying to create an optimal solution by adding a new road. Currently, I am using linear programming combined with machine learning to solve this problem. 
 
 [Check out the updates here](https://github.com/kcelebi/Traffic-V2)
+
 [Check out V1](https://github.com/kcelebi/Traffic-V1)
 
 ### Cellular Automata 🔬
