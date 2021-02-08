@@ -19,12 +19,12 @@ This is a Python package that is currently [available to use](https://github.com
 
 ### Traffic-V2 🚗
 
-[Check out the updates here](../kcelebi/Traffic-V2)
+[Check out the updates here](https://github.com/kcelebi/Traffic-V2)
 Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves translating traffic into a max-flow networking problem, and trying to create an optimal solution by adding a new road. Currently, I am using linear programming combined with machine learning to solve this problem. 
 
 ### Cellular Automata 🔬
 
-[Check out the updates here](../)
+[Check out the updates here](https://github.com/kcelebi/Cellular-Automata)
 
 Overall the ``Cellular-Automata`` repo has no direct goal. My plans for the next edition of it are to create an interactive website to test and create different models with Conway's Game of Life, and also to create a massive dataset for different rules of Cellular Automata. 
 
