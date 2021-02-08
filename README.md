@@ -19,22 +19,15 @@ This is a Python package that is currently [available to use](https://github.com
 
 ### Traffic-V2 🚗
 
-[Check out the updates here](https://github.com/kcelebi/Traffic-V2)
 Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves translating traffic into a max-flow networking problem, and trying to create an optimal solution by adding a new road. Currently, I am using linear programming combined with machine learning to solve this problem. 
+
+[Check out the updates here](https://github.com/kcelebi/Traffic-V2)
 
 ### Cellular Automata 🔬
 
-[Check out the updates here](https://github.com/kcelebi/Cellular-Automata)
-
 Overall the ``Cellular-Automata`` repo has no direct goal. My plans for the next edition of it are to create an interactive website to test and create different models with Conway's Game of Life, and also to create a massive dataset for different rules of Cellular Automata. 
 
-* Conway's Game of Life Interactive
-
-    I am currently in the process of implementing an interactive demonstration where one can draw different pre-set patterns to a Game of Life simulation. The goal of this is to allow the user the ease of making new patterns, observing simulations of natural phenomena, or discovering new features.
-
-* Cellular Automata Dataset
-
-    Conway's Game of Life is not the only set of rules for Cellular Automata. I want to bridge some of my focus to other rules, such as rule 30, and perhaps create a dataset for the purpose of analyzing the different patterns that appear. This project is still in the planning stage, but expect updates by December 2020. 
+[Check out the updates here](https://github.com/kcelebi/Cellular-Automata)
 
 ### DJI-VXX 📈
 
