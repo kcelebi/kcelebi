@@ -24,7 +24,7 @@ Version 1 of this project involved simulating traffic and collecting the congest
 
 ### Cellular Automata 🔬
 
-[Check out the updates here](../Cellular-Automata)
+[Check out the updates here](../../Cellular-Automata)
 
 Overall the ``Cellular-Automata`` repo has no direct goal. My plans for the next edition of it are to create an interactive website to test and create different models with Conway's Game of Life, and also to create a massive dataset for different rules of Cellular Automata. 
 
