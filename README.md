@@ -7,7 +7,7 @@
 
 ## Hi, I'm Kaya! 👋
 
-CS and Stats at Duke University. Favorite topics are machine learning, computer network architectures, x86 and ARM ISA's, quantitative finance, quantum computing, and mathematics. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
+I'm a 2nd-year Computer Science and Statistics student at Duke University. My favorite topics include machine learning, computer network architectures, x86 and ARM ISA's, quantitative finance, quantum computing, and mathematics. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
 
 ## Ongoing Projects 🗺
 
