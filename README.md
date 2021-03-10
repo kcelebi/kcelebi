@@ -13,7 +13,7 @@ I'm a 2nd-year Computer Science and Statistics student at Duke University. My fa
 
 Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>.
 
-### riscv-assembler Python Package ⚙️
+### riscv-assembler Python Package ([Documentation](https://www.riscvassembler.org)) ⚙️
 
 This is a Python package that is currently [available to use](https://github.com/kcelebi/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
 
