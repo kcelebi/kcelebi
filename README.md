@@ -11,7 +11,7 @@ I'm a 2nd-year Computer Science and Statistics student at Duke University. My fa
 
 ## Ongoing Projects 🗺
 
-Here are a list of ongoing projects that will be updated frequently both on GitHub and on my <a href = "https://kayacelebi17.wixsite.com/website">website</a>.
+Here are a list of ongoing projects that will be updated frequently on GitHub.
 
 ### riscv-assembler Python Package ([Documentation](https://www.riscvassembler.org)) ⚙️
 
