@@ -7,7 +7,7 @@
 
 ## Hi, I'm Kaya! 👋
 
-I'm a 3rd-year Computer Science and Statistics student at Duke University. My favorite topics include machine learning, computer network architectures, x86 and ARM ISA's, quantitative finance, quantum computing, and mathematics. I truly care about the opportunities to create products with meaningful applications using the powerful tools of Computer Science. Feel free to explore my past and ongoing projects! 
+I'm a 3rd-year Computer Science and Statistics student at Duke University. Feel free to explore my past and ongoing projects! 
 
 ## Ongoing Projects 🗺
 
@@ -24,12 +24,6 @@ Version 1 of this project involved simulating traffic and collecting the congest
 [Check out the updates here](https://github.com/kcelebi/Traffic-V2)
 
 [Check out V1](https://github.com/kcelebi/Traffic-V1)
-
-### Cellular Automata 🔬
-
-Overall the ``Cellular-Automata`` repo has no direct goal. My plans for the next edition of it are to create an interactive website to test and create different models with Conway's Game of Life, and also to create a massive dataset for different rules of Cellular Automata. 
-
-[Check out the updates here](https://github.com/kcelebi/Cellular-Automata)
 
 ### DJI-VXX 📈
 
