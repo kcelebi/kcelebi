@@ -29,5 +29,7 @@ A regression model that can predict the Dow Jones Industrial Average and the Vol
 
 Simulation of iPhone game Pocket Planes using different AI algorithms to play it.[Check out the updates here](https://gitub.com/kcelebi/pocket-planes)
 
+### Map Maker 
 
+Simple GUI to generate cartesian coordinates of cities on a chosen 2D-map. This is opposed to transforming Long,Lat coordinates to a non-standard cartesian map. [Check out the updates here](https://gitub.com/kcelebi/map-maker)
 
