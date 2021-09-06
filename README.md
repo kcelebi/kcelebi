@@ -19,22 +19,15 @@ This is a Python package that is currently [available to use](https://github.com
 
 ### Traffic-V2 🚗
 
-Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves reducing traffic into a max-flow networking problem.
-
-[Check out V1](https://github.com/kcelebi/Traffic-V1)
+Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves reducing traffic into a max-flow networking problem. [Check out V1](https://github.com/kcelebi/Traffic-V1)
 
 ### DJI-VXX 📈
 
-A regression model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines.
-
-[Check out the updates here](https://github.com/kcelebi/DJI-VXX)
+A regression model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines. [Check out the updates here](https://github.com/kcelebi/DJI-VXX)
 
 ### Pocket Planes ✈️
 
-Simulation of iPhone game Pocket Planes using different AI algorithms to play it.
+Simulation of iPhone game Pocket Planes using different AI algorithms to play it.[Check out the updates here](https://gitub.com/kcelebi/pocket-planes)
 
-[Check out the updates here](https://gitub.com/kcelebi/pocket-planes)
-
-###
 
 
