@@ -7,7 +7,7 @@
 
 ## Hi, I'm Kaya! 👋
 
-I'm a 3rd-year Computer Science and Statistics student at Duke University. Feel free to explore my past and ongoing projects! 
+I'm a 3rd-year Computer Science and Statistics student at Duke University. I am also an REU student in Columbia University's EE department in the WiMNet Lab. Feel free to explore my past and ongoing projects! 
 
 ## Ongoing Projects 🗺
 
@@ -19,16 +19,22 @@ This is a Python package that is currently [available to use](https://github.com
 
 ### Traffic-V2 🚗
 
-Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves translating traffic into a max-flow networking problem, and trying to create an optimal solution by adding a new road. Currently, I am using linear programming combined with machine learning to solve this problem. 
-
-[Check out the updates here](https://github.com/kcelebi/Traffic-V2)
+Version 1 of this project involved simulating traffic and collecting the congestion data. Version 2 of this project involves reducing traffic into a max-flow networking problem.
 
 [Check out V1](https://github.com/kcelebi/Traffic-V1)
 
 ### DJI-VXX 📈
 
-The current version of this project is a model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines. My plan for the next edition of this project is to make an auto-trader that operates solely on a more refined version of this model. 
+A regression model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines.
 
 [Check out the updates here](https://github.com/kcelebi/DJI-VXX)
+
+### Pocket Planes ✈️
+
+Simulation of iPhone game Pocket Planes using different AI algorithms to play it.
+
+[Check out the updates here](https://gitub.com/kcelebi/pocket-planes)
+
+###
 
 
