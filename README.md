@@ -5,6 +5,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kcelebi&layout=compact&theme=vue&hide_border=true" />
 </a> -->
 
+<!--[![Build Status](https://travis-ci.org/kcelebi/riscv-assembler.svg?branch=main)](https://travis-ci.org/kcelebi/riscv-assembler)
+[![Gitter](https://badges.gitter.im/riscv-assembler/community.svg)](https://gitter.im/riscv-assembler/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)-->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Hi, I'm Kaya! 👋
 
 I'm a 3rd-year Computer Science and Statistics student at Duke University. I am an REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. Feel free to explore my past and ongoing projects! 
