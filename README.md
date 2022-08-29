@@ -13,7 +13,7 @@
 
 ## Hi, I'm Kaya! 👋
 
-I'm a 3rd-year Computer Science and Statistics student at Duke University. I am an REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. Feel free to explore my past and ongoing projects! 
+I'm a 4th-year Computer Science and Statistics student at Duke University. I am an REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. Feel free to explore my past and ongoing projects! 
 
 ## Ongoing Projects 🗺
 
