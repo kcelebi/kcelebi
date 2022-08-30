@@ -5,10 +5,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kcelebi&layout=compact&theme=vue&hide_border=true" />
 </a> -->
 
-<!--[![Build Status](https://travis-ci.org/kcelebi/riscv-assembler.svg?branch=main)](https://travis-ci.org/kcelebi/riscv-assembler)
-[![Gitter](https://badges.gitter.im/riscv-assembler/community.svg)](https://gitter.im/riscv-assembler/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)-->
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Fkcelebi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Hi, I'm Kaya! 👋
@@ -29,7 +25,14 @@ A regression model that can predict the Dow Jones Industrial Average and the Vol
 
 ### Flight Analysis 🛩
 
-Package that scrapes and analyzes flight data from Google Flights. Key feature is picking the optimal flight for you based on constraints such as time, place, and price. Allows for tools to easily analyze this flight data and apply pre-trained models for better interpretation.[Check out the updates here](https://github.com/kcelebi/Flight_Analysis)
+This project provides tools and models for users to analyze, forecast, and collect data regarding flights and prices. There are currently many features in initial stages and in development. The current features (as of 8/29/22) are:
+
+- Scraping tools for Google Flights
+- Base analytical tools/methods for price forecasting/summary
+- Models to demonstrate ML techniques on forecasting
+- API for access to previously collected data
+
+[Check out the updates here](https://github.com/kcelebi/flight_analysis)
 
 ### Other Projects
 - [Pocket Planes](https://github.com/kcelebi/pocket-planes) ✈️
