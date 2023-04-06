@@ -23,7 +23,7 @@ This is a Python package that is currently [available to use](https://github.com
 
 A regression model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines. [Check out the updates here](https://github.com/kcelebi/DJI-VXX)
 
-### Flight Analysis 🛩
+### Google Flight Analysis ([Documentation](https://pypi.org/project/google-flight-analysis/))🛩
 
 This project provides tools and models for users to analyze, forecast, and collect data regarding flights and prices. There are currently many features in initial stages and in development. The current features (as of 8/29/22) are:
 
