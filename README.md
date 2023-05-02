@@ -11,7 +11,7 @@
 
 I'm a 4th-year Computer Science and Statistics student at Duke University. I am an REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. Feel free to explore my past and ongoing projects! 
 
-## Ongoing Projects - [celebi-pkg](https://www.github.com/celebi-pkg)🗺
+## Ongoing Projects - [celebi-pkg](https://www.github.com/celebi-pkg) 🗺
 
 Here are a list of ongoing projects that will be updated frequently on GitHub.
 
