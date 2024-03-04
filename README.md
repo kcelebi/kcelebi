@@ -9,7 +9,10 @@
 
 ## Hi, I'm Kaya! 👋
 
-I'm a Wealth Management Technology Analyst at Morgan Stanley. I recently graduated from Duke University with a B.S in Computer Science and Statistical Science. I was a REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. Feel free to explore my past and ongoing projects! 
+I'm a Wealth Management Technology Analyst at Morgan Stanley. I recently graduated from Duke University with a B.S in Computer Science and Statistical Science. I was a REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. 
+
+I love tinkering with idea/concepts related to my professional field (machine learning, finance, time-series analysis), but also others that are completely unrelated (RISC-V, airline pricing, computational linguistics, cartography, etc). Feel free to explore my past and ongoing projects! 
+
 
 ## Ongoing Projects - [celebi-pkg](https://www.github.com/celebi-pkg) 🗺
 
