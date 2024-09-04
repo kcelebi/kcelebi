@@ -18,7 +18,7 @@ I love tinkering with idea/concepts related to my professional field (machine le
 
 Here are a list of ongoing projects that will be updated frequently on GitHub.
 
-### riscv-assembler Python Package ([Documentation](https://www.riscvassembler.org)) ⚙️
+### riscv-assembler Python Package ([Documentation](https://celebi-pkg.github.io/riscv-assembler/)) ⚙️
 
 This is a Python package that is currently [available to use](https://github.com/celebi-pkg/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
 
