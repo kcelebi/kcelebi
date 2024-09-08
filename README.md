@@ -18,13 +18,17 @@ I love tinkering with idea/concepts related to my professional field (machine le
 
 Here are a list of ongoing projects that will be updated frequently on GitHub.
 
-### riscv-assembler Python Package ([Documentation](https://celebi-pkg.github.io/riscv-assembler/)) ⚙️
+### Cellular Automata & Machine Learning ([Documentation](https://github.com/kcelebi/cellular-automata))
 
-This is a Python package that is currently [available to use](https://github.com/celebi-pkg/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
+Using reinforcement learning and discrete mathematics to find new/unique structures for different Cellular Automata rulesets.
 
 ### DJI-VXX 📈
 
 A regression model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines. [Check out the updates here](https://github.com/kcelebi/DJI-VXX)
+
+### riscv-assembler Python Package ([Documentation](https://celebi-pkg.github.io/riscv-assembler/)) ⚙️
+
+This is a Python package that is currently [available to use](https://github.com/celebi-pkg/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
 
 ### Google Flight Analysis ([Documentation](https://pypi.org/project/google-flight-analysis/))🛩
 
