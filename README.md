@@ -41,10 +41,4 @@ This project provides tools and models for users to analyze, forecast, and colle
 
 [Check out the updates here](https://github.com/celebi-pkg/flight_analysis)
 
-### Other Projects
-- [Pocket Planes](https://github.com/kcelebi/pocket-planes) ✈️
-- [Map Maker](https://github.com/kcelebi/map-maker)
-- [Traffic-V2](https://github.com/kcelebi/Traffic-V1) 🚗
-
-
 
