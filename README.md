@@ -13,10 +13,6 @@ I'm a Data Scientist, recently graduated from Duke University with a dual degree
 
 I’m constantly exploring new ways to leverage unstructured data and machine learning to develop solutions that make a tangible difference. Feel free to explore my projects below and reach out if you'd like to collaborate!
 
-I recently graduated from Duke University with a B.S in Computer Science and Statistical Science. I was a REU research student in Columbia University's Electrical Engineering department in the WiMNet Lab as well as a research intern in Duke University's Electrical & Computer Engineering lab. 
-
-I love tinkering with idea/concepts related to my professional field (machine learning, finance, time-series analysis), but also others that are completely unrelated (RISC-V, airline pricing, computational linguistics, cartography, etc). Feel free to explore my past and ongoing projects! 
-
 ## Ongoing Projects
 
 Here are a list of ongoing projects that are updated frequently on GitHub.
