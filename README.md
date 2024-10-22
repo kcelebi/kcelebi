@@ -9,36 +9,38 @@
 
 ## Hi, I'm Kaya! 👋
 
-I'm a Wealth Management Technology Analyst at Morgan Stanley. I recently graduated from Duke University with a B.S in Computer Science and Statistical Science. I was a REU research student in Columbia University's EE department in the WiMNet Lab as well as a research intern in Duke ECE's lab. 
+I'm a Data Scientist, recently graduated from Duke University with a dual degree in Computer Science (B.S) and Statistical Science (B.S) with a passion for solving complex problems through data-driven insights and innovative algorithms. With extensive experience in finance, technology, and research, I've built machine learning models, pipelines, and tools that have real-world impact, from optimizing trading platforms to enhancing network performance. My work spans various domains, including finance, telecommunications, and radar technology, where I apply advanced data analysis and AI to drive meaningful results.
+
+I’m constantly exploring new ways to leverage unstructured data and machine learning to develop solutions that make a tangible difference. Feel free to explore my projects below and reach out if you'd like to collaborate!
+
+I recently graduated from Duke University with a B.S in Computer Science and Statistical Science. I was a REU research student in Columbia University's Electrical Engineering department in the WiMNet Lab as well as a research intern in Duke University's Electrical & Computer Engineering lab. 
 
 I love tinkering with idea/concepts related to my professional field (machine learning, finance, time-series analysis), but also others that are completely unrelated (RISC-V, airline pricing, computational linguistics, cartography, etc). Feel free to explore my past and ongoing projects! 
 
+## Ongoing Projects
 
-## Ongoing Projects - [celebi-pkg](https://www.github.com/celebi-pkg) 🗺
-
-Here are a list of ongoing projects that will be updated frequently on GitHub.
-
-### Cellular Automata & Machine Learning ([Documentation](https://github.com/kcelebi/cellular-automata))
-
-Using reinforcement learning and discrete mathematics to find new/unique structures for different Cellular Automata rulesets.
-
-### DJI-VXX 📈
-
-A regression model that can predict the Dow Jones Industrial Average and the Volatility Index based on Wall Street Journal news headlines. [Check out the updates here](https://github.com/kcelebi/DJI-VXX)
-
-### riscv-assembler Python Package ([Documentation](https://celebi-pkg.github.io/riscv-assembler/)) ⚙️
-
-This is a Python package that is currently [available to use](https://github.com/celebi-pkg/riscv-assembler). The package provides tools for converting RISC-V Assembly to machine code. It has some useful tools such as converting whole files into machine code as well as analyzing individual instructions. While a version is currently up and running on [PyPi](https://pypi.org/project/riscv-assembler/), I continue to update it and add more features. Check it out and let me know how it works and if it needs something extra!
+Here are a list of ongoing projects that are updated frequently on GitHub.
 
 ### Google Flight Analysis ([Documentation](https://pypi.org/project/google-flight-analysis/))🛩
 
 This project provides tools and models for users to analyze, forecast, and collect data regarding flights and prices. There are currently many features in initial stages and in development. The current features (as of 8/29/22) are:
 
 - Scraping tools for Google Flights
-- Base analytical tools/methods for price forecasting/summary
-- Models to demonstrate ML techniques on forecasting
-- API for access to previously collected data
+- Price forecasting methods and summary analytics
+- Machine learning models demonstrating forecasting techniques
+- API for accessing previously collected data
 
 [Check out the updates here](https://github.com/celebi-pkg/flight_analysis)
 
+### Hedged Portfolio Generation 📈
 
+Developed ensemble machine learning models to generate optimized portfolios and trading strategies, applying various financial and quantitative techniques to simulate real-world portfolio management.
+
+### Cellular Automata & Machine Learning ([Documentation](https://github.com/kcelebi/cellular-automata))
+
+Explores reinforcement learning and discrete mathematics to identify new, unique structures for different Cellular Automata rulesets, pushing the boundaries of computational theory in AI.
+
+## Other Projects
+
+- [riscv-assembler Python Package](https://celebi-pkg.github.io/riscv-assembler/) -- A Python package that converts RISC-V Assembly code into machine code, complete with tools for file conversion and individual instruction analysis. Available on [PyPi](https://pypi.org/project/riscv-assembler/), with ongoing updates and new feature additions.
+- [Football Match Official data analysis](https://github.com/kcelebi/euro-football-officials-ML) -- Using football/soccer match data to determine how influential match officials' decisions are on an game's outcome.
