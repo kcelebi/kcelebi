@@ -17,7 +17,7 @@ I’m constantly exploring new ways to leverage unstructured data and machine le
 
 Here are a list of ongoing projects that are updated frequently on GitHub.
 
-### Google Flight Analysis ([Documentation](https://pypi.org/project/google-flight-analysis/))🛩
+### [Google Flight Analysis](https://pypi.org/project/google-flight-analysis/) 🛩
 
 This project provides tools and models for users to analyze, forecast, and collect data regarding flights and prices. There are currently many features in initial stages and in development. The current features (as of 8/29/22) are:
 
@@ -28,12 +28,11 @@ This project provides tools and models for users to analyze, forecast, and colle
 
 [Check out the updates here](https://github.com/celebi-pkg/flight_analysis)
 
-### Hedged Portfolio Generation 📈
+### [Hedged Portfolio Generation](https://github.com/celebi-pkg/hedged-portfolio-gen) 📈
 
 Developed ensemble machine learning models to generate optimized portfolios and trading strategies, applying various financial and quantitative techniques to simulate real-world portfolio management.
 
-### Cellular Automata & Machine Learning ([Documentation](https://github.com/kcelebi/cellular-automata))
-
+### [Cellular Automata & Machine Learning](https://github.com/kcelebi/cellular-automata) 🧬
 Explores reinforcement learning and discrete mathematics to identify new, unique structures for different Cellular Automata rulesets, pushing the boundaries of computational theory in AI.
 
 ## Other Projects
