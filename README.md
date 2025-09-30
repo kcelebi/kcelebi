@@ -10,7 +10,7 @@
 ## Hi, I'm Kaya! 👋
 
 A little about me, I am a:
-- Data Scientist at Hartree Partners, a Energy & Commodities Trading Firm
+- Data Scientist at Hartree Partners, an Energy & Commodities Trading Firm
 - Co-Founder of CG Defense Consulting, a Defense Contracting Firm automating Supply Chain and Government Procurement
 - Computer Science (M.S) student at Columbia University, graduate from Duke University with a dual degree in Computer Science and Statistical Science (B.S)
 
