@@ -16,22 +16,22 @@ A little about me, I am a:
 
 I have a passion for solving complex business or technical problems with creative, data-driven solutions. With extensive experience in finance, technology, and academia, I've built machine learning models, pipelines, and tools that have real-world impact, from optimizing trading platforms to solving supply chain to enhancing network performance.
 
-I’m constantly exploring new ways to leverage unstructured data and machine learning to develop solutions that make a tangible difference. Feel free to explore my projects below and reach out if you'd like to collaborate!
+I’m constantly exploring new ways to leverage unstructured data and machine learning to develop interesting solutions. Feel free to explore my projects below and reach out if you'd like to collaborate!
 
 ## Ongoing Projects
 
-### [CG Defense Consulting - Co-Founder](https://cgdefenseconsulting.com/) 
+### [CG Defense Consulting - Co-Founder](https://cgdefenseconsulting.com/) (We're Hiring!)
+
+We're automating Defense Procurement and Supply Chain systems with AI and Ontology. We're looking to fill:
+- Tech
+  - Application Developer - GUILD (U.S)
+- Operations
+  - Senior Operations Analyst (Türkiye)
+  - Junior Operations Analyst (Türkiye)
 
 ### [Google Flight Analysis](https://pypi.org/project/google-flight-analysis/) 🛩
 
-This project provides tools and models for users to analyze, forecast, and collect data regarding flights and prices. There are currently many features in initial stages and in development. The current features (as of 8/29/22) are:
-
-- Scraping tools for Google Flights
-- Price forecasting methods and summary analytics
-- Machine learning models demonstrating forecasting techniques
-- API for accessing previously collected data
-
-[Check out the updates here](https://github.com/celebi-pkg/flight_analysis)
+Tools and models to collect, analyze, and forecast flight price data. Still in development, feel free to reach out or submit PRs for new features and suggestions.
 
 ### [Hedged Portfolio Generation](https://github.com/celebi-pkg/hedged-portfolio-gen) 📈
 
