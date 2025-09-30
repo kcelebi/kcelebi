@@ -9,13 +9,18 @@
 
 ## Hi, I'm Kaya! 👋
 
-I'm a Data Scientist, recently graduated from Duke University with a dual degree in Computer Science (B.S) and Statistical Science (B.S) with a passion for solving complex problems through data-driven insights and innovative algorithms. With extensive experience in finance, technology, and research, I've built machine learning models, pipelines, and tools that have real-world impact, from optimizing trading platforms to enhancing network performance. My work spans various domains, including finance, telecommunications, and radar technology, where I apply advanced data analysis and AI to drive meaningful results.
+A little about me, I am a:
+- Data Scientist at Hartree Partners, a Energy & Commodities Trading Firm
+- Co-Founder of CG Defense Consulting, a Defense Contracting Firm automating Supply Chain and Government Procurement
+- Computer Science (M.S) student at Columbia University, graduate from Duke University with a dual degree in Computer Science and Statistical Science (B.S)
+
+I have a passion for solving complex business or technical problems with creative, data-driven solutions. With extensive experience in finance, technology, and academia, I've built machine learning models, pipelines, and tools that have real-world impact, from optimizing trading platforms to solving supply chain to enhancing network performance.
 
 I’m constantly exploring new ways to leverage unstructured data and machine learning to develop solutions that make a tangible difference. Feel free to explore my projects below and reach out if you'd like to collaborate!
 
 ## Ongoing Projects
 
-Here are a list of ongoing projects that are updated frequently on GitHub.
+### [CG Defense Consulting - Co-Founder](https://cgdefenseconsulting.com/) 
 
 ### [Google Flight Analysis](https://pypi.org/project/google-flight-analysis/) 🛩
 
@@ -31,11 +36,3 @@ This project provides tools and models for users to analyze, forecast, and colle
 ### [Hedged Portfolio Generation](https://github.com/celebi-pkg/hedged-portfolio-gen) 📈
 
 Developed ensemble machine learning models to generate optimized portfolios and trading strategies, applying various financial and quantitative techniques to simulate real-world portfolio management.
-
-### [Cellular Automata & Machine Learning](https://github.com/kcelebi/cellular-automata) 🧬
-Explores reinforcement learning and discrete mathematics to identify new, unique structures for different Cellular Automata rulesets, pushing the boundaries of computational theory in AI.
-
-## Other Projects
-
-- [riscv-assembler Python Package](https://celebi-pkg.github.io/riscv-assembler/) -- A Python package that converts RISC-V Assembly code into machine code, complete with tools for file conversion and individual instruction analysis. Available on [PyPi](https://pypi.org/project/riscv-assembler/), with ongoing updates and new feature additions.
-- [Football Match Official data analysis](https://github.com/kcelebi/euro-football-officials-ML) -- Using football/soccer match data to determine how influential match officials' decisions are on an game's outcome.
