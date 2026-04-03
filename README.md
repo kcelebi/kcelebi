@@ -10,8 +10,8 @@
 ## Hi, I'm Kaya! 👋
 
 A little about me, I am a:
-- **AI Tech Lead at Hartree Partners**, an Energy & Commodities Trading Firm
 - **Co-Founder of GUILD**, an AI-native Defense Contracting platform automating Supply Chain and Government Procurement
+- **Ex-AI Tech Lead at Hartree Partners**, an Energy & Commodities Trading Firm
 - **Computer Science (M.Sc) student at Columbia University**, graduate from Duke University with a dual degree in Computer Science and Statistical Science (B.Sc)
 
 I have a passion for solving complex business or technical problems with creative, data-driven solutions. With extensive experience in finance, technology, and academia, I've built machine learning models, pipelines, and tools that have real-world impact, from optimizing trading platforms to solving supply chain to enhancing network performance.
@@ -20,7 +20,7 @@ I’m constantly exploring new ways to leverage unstructured data and machine le
 
 ## Ongoing Projects
 
-### [GUILD - Co-Founder](https://cgdefenseconsulting.com/) (We're Hiring!)
+### [GUILD - Co-Founder& CEO](https://guildai.co/) (We're Hiring!)
 
 We're automating Defense Procurement and Supply Chain systems with AI. We're looking to fill:
 - Tech
