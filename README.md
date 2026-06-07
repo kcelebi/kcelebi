@@ -20,7 +20,7 @@ I’m constantly exploring new ways to leverage unstructured data and machine le
 
 ## Ongoing Projects
 
-### [GUILD - Co-Founder & CEO](https://guildai.co/)
+### [GUILD (YC S26) - Co-Founder & CEO](https://guildai.co/)
 
 We're automating Defense Procurement and Supply Chain systems with AI. 
 
