@@ -10,7 +10,7 @@
 ## Hi, I'm Kaya! 👋
 
 A little about me, I am a:
-- **Co-Founder & CEO at GUILD (YC S26)**, the Neoprime reshaping Defense Supply Chain and Government Procurement
+- **Co-Founder & CEO at GUILD (YC S26)**, the AI-native Defense Contractor reshaping Defense Supply Chain and Government Procurement
 - **Ex-Morgan Stanley, Ex-AI Tech Lead at Hartree Partners**, an Energy & Commodities Trading Firm
 - **Computer Science (M.Sc) student at Columbia University**, graduate from Duke University with a dual degree in Computer Science and Statistical Science (B.Sc)
 
